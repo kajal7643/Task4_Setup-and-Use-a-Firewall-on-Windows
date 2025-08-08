@@ -1,0 +1,15 @@
+Task 4
+Setup and Use a Firewall on Windows
+This task shows basic firewall setup using **Windows Defender Firewall with Advanced Security**.
+Steps Performed
+- Opened Windows Firewall (`wf.msc`).
+- Listed existing inbound rules.
+- Created a rule to **block Telnet (port 23)**.
+- Created a rule to **allow SSH (port 22)**.
+- Verified rules using Command Prompt.
+- Removed the test block rule.
+Outcome
+- Learned how to add, verify, and remove firewall rules.
+- Understood inbound and outbound filtering and the importance of blocking insecure ports.
+
+Screenshots are attached in this repository for reference.
